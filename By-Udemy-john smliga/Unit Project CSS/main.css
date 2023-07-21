@@ -1,0 +1,29 @@
+*{
+ margin: 0;
+}
+
+
+#navbar{
+ height: 5rem;
+ background: #ffff;
+}
+
+.logo{
+ font-size: 20px;
+ color: blue;
+}
+
+.hero{
+ min-height: calc(100vh-5rem);
+ background: #222;
+ color: #fff;
+}
+
+.hero span{
+ color: blue;
+ font-size: 30px;
+}
+.hero-btn{
+ background: rgb(246, 78, 78);
+ color: #fff;
+}
